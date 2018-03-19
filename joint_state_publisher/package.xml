@@ -1,6 +1,6 @@
 <package format="2">
   <name>joint_state_publisher</name>
-  <version>1.12.12</version>
+  <version>1.12.13</version>
   <description>
     This package contains a tool for setting and publishing joint state values for a given URDF.
   </description>
@@ -11,6 +11,8 @@
 
   <license>BSD</license>
   <url type="website">http://www.ros.org/wiki/joint_state_publisher</url>
+  <url type="repository">https://github.com/ros/joint_state_publisher</url>
+  <url type="bugtracker">https://github.com/ros/joint_state_publisher/issues</url>
 
   <buildtool_depend>catkin</buildtool_depend>
 
