@@ -1,3 +1,26 @@
+## joint_state_publisher (melodic) - 1.12.13-0
+
+The packages in the `joint_state_publisher` repository were released into the `melodic` distro by running `/usr/bin/bloom-release joint_state_publisher --track melodic --rosdistro melodic` on `Mon, 19 Mar 2018 18:10:24 -0000`
+
+The `joint_state_publisher` package was released.
+
+Version of package(s) in repository `joint_state_publisher`:
+
+- upstream repository: https://github.com/ros/joint_state_publisher.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.12.13-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.3`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.1`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## joint_state_publisher (lunar) - 1.12.13-0
 
 The packages in the `joint_state_publisher` repository were released into the `lunar` distro by running `/usr/bin/bloom-release joint_state_publisher --track lunar --rosdistro lunar` on `Mon, 19 Mar 2018 18:06:30 -0000`
