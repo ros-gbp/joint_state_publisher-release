@@ -1,3 +1,28 @@
+## joint_state_publisher (melodic) - 1.12.15-1
+
+The packages in the `joint_state_publisher` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic joint_state_publisher` on `Thu, 12 Mar 2020 21:41:12 -0000`
+
+These packages were released:
+- `joint_state_publisher`
+- `joint_state_publisher_gui`
+
+Version of package(s) in repository `joint_state_publisher`:
+
+- upstream repository: https://github.com/ros/joint_state_publisher.git
+- release repository: https://github.com/ros-gbp/joint_state_publisher-release.git
+- rosdistro version: `1.12.14-1`
+- old version: `1.12.14-1`
+- new version: `1.12.15-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## joint_state_publisher (kinetic) - 1.12.15-1
 
 The packages in the `joint_state_publisher` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic joint_state_publisher` on `Thu, 12 Mar 2020 20:56:00 -0000`
