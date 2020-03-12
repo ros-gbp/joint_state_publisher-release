@@ -2,19 +2,17 @@
 Changelog for package joint_state_publisher
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.12.15 (2020-03-12)
---------------------
-* Make it clear robot_description is required (`#42 <https://github.com/ros/joint_state_publisher/issues/42>`_)
-* Set source_update_cb attr before creating subscribers (`#41 <https://github.com/ros/joint_state_publisher/issues/41>`_)
-* Contributors: Shane Loretz
-
-1.12.14 (2020-01-22)
---------------------
+1.15.0 (2020-03-12)
+-------------------
+* Bump CMake version to avoid CMP0048 (`#44 <https://github.com/ros/joint_state_publisher/issues/44>`_)
+* Set source_update_cb attr before creating subscribers (`#43 <https://github.com/ros/joint_state_publisher/issues/43>`_)
+* Make it clear robot_description is required. (`#39 <https://github.com/ros/joint_state_publisher/issues/39>`_)
+* Remove the deprecated fallback option of use_gui (`#34 <https://github.com/ros/joint_state_publisher/issues/34>`_)
 * Split jsp and jsp gui (`#31 <https://github.com/ros/joint_state_publisher/issues/31>`_)
 * Only update one joint slider on value changed. (`#11 <https://github.com/ros/joint_state_publisher/issues/11>`_)
 * ignore 'planar' joints just as 'fixed' and 'floating' (`#14 <https://github.com/ros/joint_state_publisher/issues/14>`_)
 * Make GUI window scroll & resize for large robots (`#10 <https://github.com/ros/joint_state_publisher/issues/10>`_)
-* Contributors: Andy McEvoy, Chris Lalancette, Michael Görner
+* Contributors: Andy McEvoy, Chris Lalancette, Michael Görner, Shane Loretz
 
 1.12.13 (2018-03-19)
 --------------------

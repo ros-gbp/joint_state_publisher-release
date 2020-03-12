@@ -2,13 +2,12 @@
 Changelog for package joint_state_publisher
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.12.15 (2020-03-12)
---------------------
-
-1.12.14 (2020-01-22)
---------------------
+1.15.0 (2020-03-12)
+-------------------
+* Bump CMake version to avoid CMP0048 (`#44 <https://github.com/ros/joint_state_publisher/issues/44>`_)
+* [Noetic] GUI Title contains node name (`#40 <https://github.com/ros/joint_state_publisher/issues/40>`_)
 * Split jsp and jsp gui (`#31 <https://github.com/ros/joint_state_publisher/issues/31>`_)
-* Contributors: Chris Lalancette
+* Contributors: Chris Lalancette, Shane Loretz
 
 1.12.13 (2018-03-19)
 --------------------
