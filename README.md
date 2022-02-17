@@ -1,3 +1,28 @@
+## joint_state_publisher (noetic) - 1.15.1-1
+
+The packages in the `joint_state_publisher` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --track noetic --rosdistro noetic joint_state_publisher` on `Thu, 17 Feb 2022 20:36:00 -0000`
+
+These packages were released:
+- `joint_state_publisher`
+- `joint_state_publisher_gui`
+
+Version of package(s) in repository `joint_state_publisher`:
+
+- upstream repository: https://github.com/ros/joint_state_publisher.git
+- release repository: https://github.com/ros-gbp/joint_state_publisher-release.git
+- rosdistro version: `1.15.0-1`
+- old version: `1.15.0-1`
+- new version: `1.15.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## joint_state_publisher (noetic) - 1.15.0-1
 
 The packages in the `joint_state_publisher` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic joint_state_publisher` on `Thu, 12 Mar 2020 22:03:24 -0000`
