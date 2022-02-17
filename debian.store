@@ -1,1 +1,1 @@
-{"trim": "", "base": "37e91e3", "trimbase": "", "parent": "debian/noetic/joint_state_publisher_gui", "previous": "19fc454"}
+{"base": "7beefe1", "parent": "debian/noetic/joint_state_publisher_gui", "previous": "5225399", "trim": "", "trimbase": ""}
